@@ -1,6 +1,4 @@
-# mtneug/timemachine
-
-[![](https://images.microbadger.com/badges/version/mtneug/timemachine.svg)](https://hub.docker.com/r/mtneug/timemachine/) [![](https://images.microbadger.com/badges/image/mtneug/timemachine.svg)](http://microbadger.com/images/mtneug/timemachine)
+# timemachine
 
 A docker container to compile the latest version of Netatalk in order to run a Time Machine server.
 
