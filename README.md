@@ -10,6 +10,8 @@ To download the docker container and execute it, simply run:
 
 ```sh
 $ docker run \
+    -d \
+    --name timemachine \
     -h timemachine \
     -p 548:548 \
     -p 636:636 \
