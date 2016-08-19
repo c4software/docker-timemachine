@@ -18,7 +18,7 @@ $ docker run \
     -e AFP_NAME=<TIME_MACHINE_NAME> \
     -e AFP_SIZE_LIMIT=<MAX_SIZE_IN_MB> \
     -v /route/to/your/timemachine:/timemachine \
-    mtneug/timemachine
+    timemachine
 ```
 
 If you don't want to specify the maximum volume size (and use all the space available), you can omit the `-e AFP_SIZE_LIMIT=<MAX_SIZE_IN_MB>` variable.
